@@ -2,14 +2,14 @@
 
 # Description
 
-With starter code comprising a functioning app, using RESTful API practices, the challenge was to refactor the app to use a GraphQL API and Apollo Server. The app uses the MERN stack; with a MongoDB database, React front-end, and Express.js & Node.js for the server and API. 
+With starter code comprising a functioning Google Books API search engine, using RESTful API practices, the challenge was to refactor the app to use a GraphQL API and Apollo Server. The app uses the MERN stack; with a MongoDB database, React front-end, and Express.js & Node.js for the server and API. 
 
 # Table of Contents
 
 * [Installation(#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Cntributions](#contributions)
+* [Contributions](#contributions)
 * [Questions](#questions)
 
 
@@ -32,6 +32,6 @@ Try using the app at this link:
 
 To contribute to this project, feel free to clone or fork to your own repository.
 
-# Qquestions
+# Questions
 
 For any questions, contact me at anthonyccardozo@gmail.com
