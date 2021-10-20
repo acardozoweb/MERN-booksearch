@@ -6,11 +6,11 @@ With starter code comprising a functioning app, using RESTful API practices, the
 
 # Table of Contents
 
-* [Installation (#installation)
-* [Usage] (#usage)
-* [License] (#license)
-* [Cntributions] (#contributions)
-* [Questions] (#questions)
+* [Installation(#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Cntributions](#contributions)
+* [Questions](#questions)
 
 
 <img width="1410" alt="Screen Shot 2021-10-20 at 6 02 33 PM" src="https://user-images.githubusercontent.com/83983013/138180777-ecc55006-1c14-4237-af50-a5b29b197f2a.png">
