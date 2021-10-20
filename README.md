@@ -6,7 +6,7 @@ With starter code comprising a functioning Google Books API search engine, using
 
 # Table of Contents
 
-* [Installation(#installation)
+* [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributions](#contributions)
