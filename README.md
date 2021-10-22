@@ -22,7 +22,7 @@ To install the program, clone to your own respository then navigate to the root 
 
 # Usage
 
-Try using the app at this link: 
+Try out the current deployment at this link: https://mysterious-brook-64349.herokuapp.com/ (Links to an external site.)
 
 # License
 
